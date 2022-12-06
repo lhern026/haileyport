@@ -1,0 +1,21 @@
+.aboutMe {
+  width: 60%;
+  display: flex;
+  margin: 20% 10% 50% 30%;
+  height: 60%;
+}
+* {
+  background-color: #edc9ff;
+}
+
+img {
+  border: 10px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+  height: auto;
+}
+/* #grids {
+  border: 10px solid red;
+  overflow: auto;
+} */
