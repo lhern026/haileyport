@@ -19,3 +19,6 @@ img {
   border: 10px solid red;
   overflow: auto;
 } */
+header {
+  height: 200%;
+}

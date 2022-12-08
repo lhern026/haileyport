@@ -2230,10 +2230,15 @@ body.is-preload #main .thumb {
 /* Footer */
 
 #footer .copyright {
-  color: #505051;
+  color: red;
   font-size: 0.9em;
+
 }
 
 #footer .copyright a {
   color: inherit;
+}
+form{
+  width: 100%;
+  color: pink;
 }
