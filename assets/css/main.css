@@ -2242,3 +2242,12 @@ form{
   width: 100%;
   color: pink;
 }
+.examples{
+  
+  border: 1px solid white;
+  display: flex;
+  
+}
+.examples img{
+  width: 50%;
+}
