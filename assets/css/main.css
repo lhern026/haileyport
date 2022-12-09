@@ -1517,7 +1517,7 @@ body.touch .poptrox-popup .nav-next {
   }
 }
 
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 236px) {
   .poptrox-popup:before {
     display: none;
   }
